@@ -2,6 +2,8 @@
 
 This Python script converts PNG and JPG images to WebP format in batch.
 
+![Screenshot](screenshot.png)
+
 ## Installation
 
 1. Clone the repository:
